@@ -1,0 +1,7 @@
+print("test")
+hrs = input("Enter Hours:")
+hrs = float(hrs)
+rate = input("Enter Rate:")
+rate = float(rate)
+together = hrs * rate
+print("Pay:", together)
